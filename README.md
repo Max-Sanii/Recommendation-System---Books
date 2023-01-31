@@ -1,4 +1,7 @@
 # Recommendation System for Books
+This was my capstone project in the Applied Artificial Intelligence Program at the University of San Diego in 2022. 
+
+## Introduction:
 Recommendation systems are very common nowadays in online shopping and entertainment websites, as they can greatly help users in identifying products of interest based on their profile or historical interaction with the system. There are many approaches in creating an effective recommender system, such as collaborative filtering, content-based filtering, metadata-based filtering, and popularity-based filtering.
 
 ## Description:
